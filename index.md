@@ -5,15 +5,7 @@ in Applied Science in Information Technology (IT). My goal is to complete certif
 in IT for Mobile Computing. 
 
 
-List of portfolio projects:<br>
-
-> Media Queries<br>
-
-> Skeleton<br>
-
-> Flexbox<br>
-
-> Bootstrap<br>
-
-> UIKit
+List of portfolio projects:   Media   Queries   Skeleton   Flexbox   Bootstrap   UIKit
  
+
+
