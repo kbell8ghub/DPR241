@@ -10,12 +10,12 @@ List of portfolio projects:
   5. Bootstrap  
   6. UIKit
  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/20200213_153938.jpg"Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/20200213_153938.jpg" Logo Title Text 1")
 
 
 ![alt text][20200213_153938]
 
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/20200213_153938.jpg"Logo Title Text 2"
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/20200213_153938.jpg" Logo Title Text 2"
 
 
