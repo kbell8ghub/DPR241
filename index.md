@@ -4,8 +4,8 @@ Hi! My name is Katon. I am pursuing a certificate in Web Programming (CSWP), tog
 
 List of portfolio projects:  
   1 .Media  
-  2 .Queries
-  3 .Skeleton
+  2 .Queries  
+  3 .Skeleton  
   4 .Flexbox  
   5 .Bootstrap
   6 .UIKit
