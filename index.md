@@ -7,7 +7,7 @@ List of portfolio projects:
   2 .Queries  
   3 .Skeleton  
   4 .Flexbox  
-  5 .Bootstrap
+  5 .Bootstrap  
   6 .UIKit
  
 
