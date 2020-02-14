@@ -10,19 +10,6 @@ List of portfolio projects:
   5. Bootstrap  
   6. UIKit
  
- 
- img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
-
-<img src="20200213_153938.jp" alt="20200213_153938">
- 
- 
- 
- 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/20200213_153938.jpg" Logo Title Text 1")
 
 
