@@ -9,6 +9,6 @@ Hi! My name is Katon. I am pursuing a certificate in Web Programming (CSWP), tog
   **4. Flexbox**  
   **5. Bootstrap**  
   **6. UIKit**   
-Inline-style:
+Inline-style:  
     ![alt text](https://github.com/kbell8ghub/DPR241/blob/master/20200213_153938.jpg "Logo Title Text 1")
 
