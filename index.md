@@ -9,10 +9,8 @@ Hi! My name is Katon. I am pursuing a certificate in Web Programming (CSWP), tog
   **4. Flexbox**  
   **5. Bootstrap**  
   **6. UIKit**   
- Inline-style:
+ 
  ![Image](20200213_153938.jpg)
  
-
- Reference-style:
 ![Image](20200213_153938.jpg)
 
