@@ -10,9 +10,9 @@ Hi! My name is Katon. I am pursuing a certificate in Web Programming (CSWP), tog
   **5. Bootstrap**  
   **6. UIKit**   
  Inline-style:
-    ![alt text](https://github.com/kbell8ghub/DPR241/blob/master/20200213_153938.jpg "Logo Title Text 1")
+ ![Image](20200213_153938.jpg)
+ ![alt text](https://github.com/kbell8ghub/DPR241/blob/master/20200213_153938.jpg "Logo Title Text 1")
 
  Reference-style:
-![Image](20200213_153938.jpg)[logo]
-
+![Image](20200213_153938.jpg)
 [logo]: https://github.com/kbell8ghub/DPR241/blob/master/20200213_153938.jpg "Logo Title Text 2"
