@@ -13,6 +13,6 @@ Hi! My name is Katon. I am pursuing a certificate in Web Programming (CSWP), tog
     ![alt text](https://github.com/kbell8ghub/DPR241/blob/master/20200213_153938.jpg "Logo Title Text 1")
 
  Reference-style:
-![alt text][logo]
+![Image](20200213_153938.jpg)[logo]
 
 [logo]: https://github.com/kbell8ghub/DPR241/blob/master/20200213_153938.jpg "Logo Title Text 2"
