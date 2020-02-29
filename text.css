@@ -1,0 +1,39 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 56px;
+}
+@media(min-width: 200px) {
+	 width: 90%
+	 min-width: 37.5em;
+	 max-height: 64em;
+	 padding: 4em;
+	 margin: 0 auto;
+}
+@media(max-width: 999px) {
+	 width: 90%
+	 min-width: 37.5em;
+	 max-height: 64em;
+	 padding: 4em;
+	 margin: 0 auto;
+}
+
+#content {
+	max-column-count:3;
+	webkit-column-count:3;
+	column-count: 3;
+	max-column-gap:40px;
+	webkit-column-gap:41px;
+	column-gap:41px;
+}
+
+
+
