@@ -10,7 +10,7 @@ Hi! My name is Katon. I am pursuing a certificate in Web Programming (CSWP), tog
   **5. Bootstrap**  
   **6. UIKit**   
  
- ![Image](YES.jpg)
+ ![Image](YES.jng)
  
-![Image](YES.jpg)
+![Image](YES.jng)
 
