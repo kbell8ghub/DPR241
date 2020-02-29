@@ -12,5 +12,5 @@ Hi! My name is Katon. I am pursuing a certificate in Web Programming (CSWP), tog
  
  ![Image](YES.png)
  
-![Image](YES.png)
+
 
