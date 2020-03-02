@@ -30,14 +30,14 @@ p {
 }
 }
 @media(min-width: 200px) {
-	 width: 20%
+	 width: 90%
 	 min-width: 37 .5em;
 	 max-height: 64em;
 	 padding: 4em;
 	 margin: 0 auto;
 }
 @media(max-width: 999px) {
-	 width: 20%
+	 width: 90%
 	 min-width: 37.5em;
 	 max-height: 64em;
 	 padding: 4em;
