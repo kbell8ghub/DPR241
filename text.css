@@ -19,7 +19,9 @@ p {
 
 @media screen and (max-width: 950px) {
 
-
+#featured img {
+	width: 40%;
+	}
 
 }
 	 width: 90%
