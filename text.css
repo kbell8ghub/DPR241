@@ -1,6 +1,10 @@
 body {
   background-color: lightblue;
 }
+body {
+  padding:0;
+  margin:0;
+}
 
 h1 {
   color: white;
@@ -13,7 +17,7 @@ p {
 }
 @media(min-width: 200px) {
 	 width: 90%
-	 min-width: 37.5em;
+	 min-width: 37 .5em;
 	 max-height: 64em;
 	 padding: 4em;
 	 margin: 0 auto;
@@ -34,6 +38,11 @@ p {
 	webkit-column-gap:41px;
 	column-gap:41px;
 }
-
-
-
+	img {
+  width: 100%;
+  height: auto;
+}
+	
+	
+	
+	
