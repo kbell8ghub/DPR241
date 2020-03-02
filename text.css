@@ -13,17 +13,31 @@ h1 {
 
 p {
   font-family: verdana;
-  font-size: 56px;
+	font-size: 56px;
+}
+/*MEDIA QUERIES*/
+
+@media screen and (max-width: 950px) {
+
+
+
+}
+	 width: 90%
+	 min-width: 37.5em;
+	 max-height: 64em;
+	 padding: 4em;
+	 margin: 0 auto;
+}
 }
 @media(min-width: 200px) {
-	 width: 90%
+	 width: 20%
 	 min-width: 37 .5em;
 	 max-height: 64em;
 	 padding: 4em;
 	 margin: 0 auto;
 }
 @media(max-width: 999px) {
-	 width: 90%
+	 width: 20%
 	 min-width: 37.5em;
 	 max-height: 64em;
 	 padding: 4em;
