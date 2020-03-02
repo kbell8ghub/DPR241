@@ -30,7 +30,7 @@ p {
 }
 }
 @media(min-width: 200px) {
-	 width: 90%
+	 width: 40%
 	 min-width: 37 .5em;
 	 max-height: 64em;
 	 padding: 4em;
